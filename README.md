@@ -28,7 +28,7 @@ Screenshot
 
 Links
  
-Live Site URL: 
+Live Site URL: https://saisuhani.github.io/QR-Code-FrontendMentor/
 
 My Process
 
